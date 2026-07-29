@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Project_Banner.png" alt="Pizza Sales Analysis Using SQL Banner" width="100%">
+  <img src="Project_Banner.png" alt="Pizza Sales Analysis Using SQL Banner" width="100%">
 </p>
 
 <h1 align="center">🍕 Pizza Sales Analysis Using SQL</h1>
