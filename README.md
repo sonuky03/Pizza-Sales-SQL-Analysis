@@ -116,27 +116,6 @@ Pizza_Types
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Pizza-Sales-SQL-Analysis/
-├── Dataset/
-├── SQL Queries/
-├── Presentation/
-├── Images/
-└── README.md
-```
-
----
-
-# 🚀 How to Run
-
-1. Import CSV files into MySQL.
-2. Create the required tables.
-3. Execute the SQL script.
-4. Review the results.
-
----
 
 # 🎓 Skills Demonstrated
 
